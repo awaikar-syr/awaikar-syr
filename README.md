@@ -31,7 +31,7 @@ Analytics | Strategy | Process Optimization<br>
 
 <p align="justify">
 <b>One Line I Live By:</b><br>
-📜 <b>**"Decisions shape outcomes"**—iterate, adapt, refine.</b><br>
+📜 <b>"Decisions shape outcomes"—iterate, adapt, refine.</b><br>
 <i>(In products, businesses, and life—insights drive action, and action drives growth.)</i>
 </p>
  
