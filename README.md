@@ -5,11 +5,11 @@ I’m <b>Ankit Waikar</b>, a Business Analyst and Product Management professiona
 
 My work spans EdTech, sports analytics, and health tech, where I’ve:
 
-Boosted student career readiness by 30% with AI-powered resume and interview tools.
+- Boosted student career readiness by 30% with AI-powered resume and interview tools.
 
-Delivered 70% accurate playoff predictions using Random Forests, translating raw data into actionable strategies.
+- Delivered 70% accurate playoff predictions using Random Forests, translating raw data into actionable strategies.
 
-Led cross-functional teams to build dashboards (Tableau/Power BI) that empowered stakeholders with real-time insights.
+- Led cross-functional teams to build dashboards (Tableau/Power BI) that empowered stakeholders with real-time insights.
 
 I thrive on solving ambiguous challenges, balancing technical innovation with business objectives. Let’s turn data into scalable solutions that deliver results.
 </p>
