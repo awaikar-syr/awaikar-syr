@@ -31,6 +31,7 @@ Analytics | Strategy | Process Optimization<br>
 
 <p align="justify">
 <b>One Line I Live By:</b><br>
-📜 <b>"न किञ्चित् शाश्वतम्" – Nothing is permanent.</b><br>
-<i>(In data, decisions, and life—everything evolves, and so should we.)</i>
+📜 <b>**"Decisions shape outcomes"**—iterate, adapt, refine.</b><br>
+<i>(In products, businesses, and life—insights drive action, and action drives growth.)</i>
 </p>
+ 
