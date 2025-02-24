@@ -40,7 +40,7 @@ Data-Driven Decision Making | AI & ML Integration | Cross-Functional Leadership<
 
 <p align="justify">
 <b>One Line I Live By:</b><br>
-📜 <b>"Decisions shape outcomes"—iterate, adapt, refine.</b><br>
-<i>(In products, businesses, and life—insights drive action, and action drives growth.)</i>
+🧠 <b>"Think analytically, rigorously, and systematically" — Michael O’Connell</b><br>
+<i>(Embed data in every decision muscle.)</i>
 </p>
  
