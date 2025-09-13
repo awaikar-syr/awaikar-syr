@@ -1,11 +1,11 @@
 <p align="justify">
-Hi there! 👋 I’m <b>Ankit Waikar</b>, a Business Analyst and Product Management professional passionate about bridging data insights with strategic execution to drive growth and efficiency. With 1+ years of experience in AI-driven analytics, process optimization, and stakeholder collaboration, I’ve streamlined workflows, reduced operational dependencies by 40%, and enhanced decision-making through tools like automated NLP platforms and predictive models.
+Hi there! 👋 I’m <b>Ankit Waikar</b>, a Data Scientist and AI/BI Engineer passionate about bridging data insights with strategic execution to drive growth and efficiency. With 2+ years of experience in AI-driven analytics, process optimization, and stakeholder collaboration, I’ve streamlined workflows, reduced operational dependencies by 40%, and enhanced decision-making through tools like automated NLP platforms and predictive models.
 
 My work spans EdTech, sports analytics, and health tech, where I’ve:
 
 - Boosted student career readiness by 30% with AI-powered resume and interview tools.
 
-- Delivered 70% accurate playoff predictions using Random Forests, translating raw data into actionable strategies.
+- Delivered 85% accurate playoff predictions using Random Forests, translating raw data into actionable strategies.
 
 - Led cross-functional teams to build dashboards (Tableau/Power BI) that empowered stakeholders with real-time insights.
 
