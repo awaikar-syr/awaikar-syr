@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ankitwaikar"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.ankitwaikar.com"><img src="https://img.shields.io/badge/Portfolio-View_work-111827?style=flat" alt="Portfolio"></a>
+  <a href="https://ankitwaikar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-View_work-111827?style=flat" alt="Portfolio"></a>
   <a href="mailto:ankitwaikar9779@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/awaikar-syr?tab=followers"><img src="https://img.shields.io/github/followers/awaikar-syr?style=social&label=Follow" alt="GitHub followers"></a>
 </p>
@@ -42,7 +42,7 @@ I work at the point where models meet real workflows: scoping with stakeholders,
 - [SU Career iBot](https://github.com/awaikar-syr/orange-bot) — multi-bot career assistant for Syracuse iSchool: RAG resume and cover-letter feedback, spoken mock interviews with tone analysis, and an alumni-analytics bot · GPT-4, Whisper, LangChain, Chroma, Streamlit
 - [MBTA Red Line Timer](https://github.com/awaikar-syr/mbta-alert) — real-time dashboard that tells you when to leave to catch the next train, using the MBTA API · TypeScript
 - [NBA Playoff Prediction](https://github.com/awaikar-syr/nba-playoff) — team project predicting NBA playoff teams from 40 years of Basketball Reference data; gradient boosting reached F1 0.85 and AUC-ROC 0.92 under 10-fold CV; I led the team · Jupyter
-- [ankitwaikar.com](https://www.ankitwaikar.com) — personal portfolio built with Next.js and TypeScript
+- [ankitwaikar.vercel.app](https://ankitwaikar.vercel.app) — my portfolio site
 - _Coming soon: RAG assistant, LLM eval harness, MCP server_
 
 ## Open source
