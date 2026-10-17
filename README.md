@@ -11,7 +11,7 @@
 
 I build LLM systems that work in production and sit with the people who use them. I move from a messy customer problem to a shipped, measured solution: discovery, prototype, evaluation, rollout.
 
-- AI Engineer at Amazon, working on LLM evaluation pipelines and data-quality tooling
+- MLDOPS Engineer III at Amazon, working on LLM evaluation pipelines and data-quality tooling
 - MS Information Systems, Syracuse University (3.9 GPA) · BE Computer Engineering
 - Boston, MA · focused on agentic systems, LLM evaluation, RAG, and customer-facing AI delivery
 
